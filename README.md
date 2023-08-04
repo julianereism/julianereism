@@ -1,7 +1,7 @@
 ### Oi, sou a Juli! ☺️
 
 📔 Estudante do 2° período de Análise e Desenvolvimento de Sistemas (Faculdade Senac de Pernambuco) <br>
-📚 Estudando Front-end na Softex Recife <br>
+📚 Aluna de Front-end na Softex Recife <br>
 💌 Tenho como hobby estudar línguas e escrever ficção<br><br>
 💰 Procurando estágio :) <br>
 
