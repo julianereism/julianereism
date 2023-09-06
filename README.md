@@ -2,7 +2,7 @@
 
 📔 Estudante do 2° período de Análise e Desenvolvimento de Sistemas (Faculdade Senac de Pernambuco) <br>
 📚 Aluna de Front-end na Softex Recife <br>
-💌 Tenho como hobby estudar línguas e escrever ficção<br><br>
+📚 Aluna de Front-end na Cesar School <br>
 💰 Procurando estágio :) <br>
 
 
