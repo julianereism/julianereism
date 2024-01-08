@@ -1,9 +1,9 @@
 ### Oi, sou a Juli! 🤩
 
-📔 Estudante do 2° período de Análise e Desenvolvimento de Sistemas (Faculdade Senac de Pernambuco) <br>
+📔 Estudante do 3° período de Análise e Desenvolvimento de Sistemas (Faculdade Senac de Pernambuco) <br>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-reis-maia-40320b140/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianereism/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianereism\&layout=compact)
 
